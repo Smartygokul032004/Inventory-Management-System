@@ -4,6 +4,10 @@ Inventory Management System using MySQL, Php and Javascript.
 
 Live Demo : [Inventory Management System](https://cse-inventory.wuaze.com)
 
+## Login details
+Email - admin@mail.com
+Pass - admin123
+
 
 ## Prerequisites
 1. Install XAMPP web server
