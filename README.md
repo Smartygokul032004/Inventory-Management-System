@@ -2,7 +2,7 @@
 Inventory Management System using MySQL, Php and Javascript.
 
 
-Live Demo : [Inventory Management System](cse-inventory.wuaze.com)
+Live Demo : [Inventory Management System](https://cse-inventory.wuaze.com)
 
 
 ## Prerequisites
